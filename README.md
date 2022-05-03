@@ -12,8 +12,6 @@ You can click the Preview link to take a look at your changes.
 Professor
 ## SMG
 
-https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
-
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
 </h4>
